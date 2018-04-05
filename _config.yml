@@ -92,7 +92,7 @@ disqus:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: YeYzheng
-    repo: blog-comments
+    repo: YeYzheng.github.io
     clientID: 0fefded40c67ec007acd
     clientSecret: 5adffb4c81407408b9a90064c3cecf71b25a47a2
 # 在使用其它评论组件时可点击显示 Disqus
