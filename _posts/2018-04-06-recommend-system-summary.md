@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 推荐系统学习总结——个性化推荐系统需要面对的一些问题
-categories: recommend system
+categories: 推荐系统
 description: 个性化推荐系统需要面对的一些问题
-keywords: recommend system
+keywords: 推荐系统
 ---
 ## 推荐系统的问题模式
 我们知道，推荐系统的使命就是向用户推荐那些用户有可能交互的物品，所以推荐系统需要事先找出那些隐藏的物品呈现给用户，这是一个预测问题；而推荐系统从达成的连接目标角度区分，可以分为两大类：
