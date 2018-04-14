@@ -1,2 +1,2 @@
 # YeYzheng.github.io
-my blog
+my blog my blog
