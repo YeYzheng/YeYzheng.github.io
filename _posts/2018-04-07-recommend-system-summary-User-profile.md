@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 推荐系统学习总结——用户画像（User Profile）
+title: 推荐系统总结——用户画像（User Profile）
 categories: 推荐系统
 description: 个性化推荐系统中的用户画像
 keywords: 推荐系统
