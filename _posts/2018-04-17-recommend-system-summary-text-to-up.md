@@ -37,6 +37,8 @@ keywords: 推荐系统
 不包含词W | C | D | C+D
 总计 | A+C | B+D | N=A+B+C+D
 
+![CHI](/images/recommend_system_summary_20180417_1.jpg)
+
 卡方值越大，说明“词和类别相互独立”假设越不成立，也就是说词和类别越相关。
 
 
